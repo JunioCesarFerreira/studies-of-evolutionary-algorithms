@@ -1,2 +1,4 @@
-# studies-of-evolutionary-algorithms
- Notes and examples prepared during an introductory course on evolutionary systems.
+# Estudos de Algoritmos Evolutivos
+
+ Notas e exemplos elaborados durante curso de introdução aos sistemas evolutivos.
+
