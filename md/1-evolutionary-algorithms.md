@@ -164,11 +164,4 @@ A sequência genérica pode ser resumida no seguinte pseudocódigo:
     6. Incremente $t$.
 4. Retorne a melhor solução encontrada.
 
-
-$$
-\begin{CD}
-    t=0, P_t @>r>> \epsilon_t = \phi(P_t) @>r>> \\
-    @VsVV  @VVfV \\
-    Y @>g>> A
-\end{CD}
-$$
+---
