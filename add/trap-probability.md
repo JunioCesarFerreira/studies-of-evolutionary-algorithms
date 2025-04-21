@@ -3,14 +3,14 @@
 Nesta nota, deduzimos a probabilidade de $f_k(x)=r$ sendo $f_k:\mathbb{Z}_2^n\rightarrow\mathbb{Z}$ definida por:
 
 $$
-f_k(x) := \sum_{i=1}^{n/k} \text{trap}_k\left( \sum_{j=1}^k x_{(i-1)k + j} \right)
+f_k(x) := \sum_{i=1}^{n/k}  \tau_{k} \Bigg( \sum_{i=1}^{n/k} x_{(i-1)k + j} \Bigg)
 $$
 
 onde,
 
 
 $$
-\text{trap}_k(u) =
+\tau_{k}(u) = \text{trap}_k(u) =
 \begin{cases}
 k, & \text{se } u = k, \\
 k - 1 - u, & \text{se } 0 \le u < k.
