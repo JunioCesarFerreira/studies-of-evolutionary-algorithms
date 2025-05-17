@@ -12,6 +12,10 @@
 2. [OneMax com Algoritmos Genéticos e DEAP](./nb/2-deap-one-max.ipynb)
 3. [Calculando a diversidade dos exemplos acima](./nb/3-calculate-diversity-firsts-examples.ipynb)
 4. [Exemplo de busca máximo em funções reais](./nb/4-find-max-real-function.ipynb)
+5. [Função Armadilha](./nb/5-find-max-with-traps.ipynb)
+6. [Análise do impacto do cruzamento vs a pressão de seleção](./exercises/3-crossover_vs_selection_press.ipynb)
+7. [Exemplo comparativo entre algumas metaheurísticas](./exercises/4-metaheuristics-comp.ipynb)
+
 
 ---
 
