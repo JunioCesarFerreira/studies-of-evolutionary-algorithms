@@ -6,6 +6,7 @@
 
 **Notas em Markdown**
 1. [Conceitos Elementares](./md/1-evolutionary-algorithms.md)
+2. [Esquemas e blocos construtores](./md/2-schemas-and-building-blocks.md)
 
 **Notebooks Python**
 1. [Problema OneMax com Algoritmos Genéticos](./nb/1-artificial-evolution-one-max.ipynb)
